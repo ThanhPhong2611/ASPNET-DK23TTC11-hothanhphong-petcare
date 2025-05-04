@@ -2,8 +2,8 @@
 
 A web application built with ASP.NET Core MVC that allows users to book at-home pet care services, view and book services by category, and manage accounts with admin functionalities.
 
-![Preview](.src/pet-care/wwwroot/images/hompage.png)
-![Preview](.src/pet-care/wwwroot/images/services.png)
+![Preview](src/pet-care/wwwroot/images/hompage.png)
+![Preview](src/pet-care/wwwroot/images/services.png)
 
 ## 🚀 Features
 
