@@ -39,9 +39,11 @@ A web application built with ASP.NET Core MVC that allows users to book at-home 
 
 1. **Clone the project**  
    ```bash
-   git clone https://github.com/ThanhPhong2611/pet-care.git
+   git clone https://github.com/ThanhPhong2611/ASPNET-DK23TTC11-hothanhphong-petcare.git
+   cd src
    cd pet-care
 
+## Admin Account: Admin, 123456aA
 
 ## Contact me:
 Email: hothanhphong2611@gmail.com
