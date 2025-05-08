@@ -16,4 +16,15 @@
 git clone https://github.com/ThanhPhong2611/ASPNET-DK23TTC11-hothanhphong-petcare.git
 cd src
 cd pet-care
+```
 
+### Bước 2: Mở project bằng Visual Studio
+- Mở file `PetShopProj.sln` trong thư mục `pet-care` bằng Visual Studio.
+- Có thể mở bằng cách nhấn đúp hoặc dùng lệnh:
+```bash
+start PetShopProj.sln
+```
+
+### Bước 3: Khởi chạy project
+- Chọn project `PetShopProj` làm project khởi động.
+- Nhấn `F5` hoặc chọn **Debug > Start Debugging** để chạy web app trên trình duyệt.
